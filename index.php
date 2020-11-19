@@ -31,7 +31,7 @@
                     </div>
                     
                     <div class="input-field">
-                         <a href="views/LoginVendedor.php"><button class="btn blue lighten-2 black-text" value="vendedor">Vendedor</button></a>
+                         <a href="views/loginVendedor.php"><button class="btn blue lighten-2 black-text" value="vendedor">Vendedor</button></a>
                     </div>
   
             </div>
